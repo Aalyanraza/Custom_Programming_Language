@@ -4,7 +4,7 @@ import java.nio.file.*;
 public class Main {
     public static void main(String[] args) {
         // File path of the source code file
-        String filePath = "src//code.txt";
+        String filePath = "code.txt";
 
         try {
             // Read all lines from the file as a single string

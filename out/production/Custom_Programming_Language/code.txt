@@ -1,0 +1,18 @@
+:< This is a code to demonstrate the functionality of Lexical Analyzer.
+	   It includes the step of tokenizing the code, while checking Lexical Errors. >:	
+
+START_MAIN() {
+	Integer number = 25
+	FloatingPoint fraction = 0833.1113
+
+	Character hadiya = 'h'
+	:> This is not recognized as variable name.
+	Character Aalyan = 'a'
+
+	Boolean true = Sach
+	Boolean false = Jhoot 
+
+	:> Mismatched bracket error.
+	[ 
+
+}
